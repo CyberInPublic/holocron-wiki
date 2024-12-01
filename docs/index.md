@@ -1,6 +1,8 @@
 # Welcome to The Holocron
 
-This site is a wiki and blog compose
+This site is a wiki and blog for my adventures in (primarily defensive) cybersecurity. It's a combination of 5+ years of notes, experiences, mistakes, and lessons learned.
+
+This project is a bit different than other personal sites because I want to actively ask for **your** input! That's right, you! Check out the \[Contributing\](contributing.md) doc for more information, either here or on \[GitHub\](<https://github.com/CyberInPublic/holocron-wiki>).
 
 ## Commands
 
