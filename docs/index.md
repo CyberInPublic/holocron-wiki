@@ -15,3 +15,8 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+Testing copy + paste image embeds:
+
+![image](https://github.com/user-attachments/assets/80fdec2e-f2b3-4249-a198-843ecb0d83b0)
+
